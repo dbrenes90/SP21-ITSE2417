@@ -49,7 +49,7 @@ public class Itse2417Main
             new FinalProj(),          // Beeby 
             new FinalProj(),          // Benitez  
             new FinalProj(),          // Bickham
-            new FinalProj(),          // Brenes
+            new Brenes(),             // Brenes
             new FinalProj(),          // Cowart
             new FinalProj(),          // Davila
             new FinalProj(),          // Dietrich
